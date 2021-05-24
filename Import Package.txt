@@ -1,0 +1,58 @@
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org <package_name> -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org seaborn -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org numpy -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas-vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org matplotlib -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org snscrape -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org vaderSentiment -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org mplcursors -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org twint -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org nest_asyncio -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org csv -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org datetime -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org time -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org GitPython -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org snscrape -vvv
+
+pip install --trusted-host pypi.python.org git+https://github.com/JustAnotherArchivist/snscrape.git#egg=snscrape
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pyspark -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org spark-nlp -vvv
+
+pip install --trusted-host pypi.python.org git+https://github.com/amueller/word_cloud.git#egg=word_cloud
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org wordcloud -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pillow -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org nltk -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org collections -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pip -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org wordcloud -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org sklearn -vvv
+
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org stopwords -vvv
+
+df.to_csv("name.csv")
+
+HappinessRpt
+
